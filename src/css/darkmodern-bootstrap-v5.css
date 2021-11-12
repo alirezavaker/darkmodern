@@ -1,0 +1,21 @@
+[data-darkmodern="one-dark-pro"],
+body,
+.accordion-body {
+  background-color: #282c34 !important;
+  color: #a7aeb5 !important;
+}
+
+[data-darkmodern="one-dark-pro"] .bg-light,
+.navbar,
+.nav-link,
+.dropdown-menu,
+.card,
+.card-header,
+.card-body,
+.accordion,
+.accordion-item,
+
+.accordion-button {
+  background-color: #21252b !important;
+  color: #a7aeb5 !important;
+}
